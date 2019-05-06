@@ -8,7 +8,7 @@ Sistema de Login escrito em PHP que faz uso do PDO para conectar ao banco de dad
 - Confirmação de e-mail com código
 - Login na conta
 - Ajustes na conta (alteração de nome, e-mail e/ou senha)
-- Gerenciamento de contas de usuários atráves do Painel Administrativo (quando a sua conta tem permissão para isso, é claro)
+- Gerenciamento de contas de usuários atráves do Painel Administrativo
 - Confirmação de saída (logout)
  
  ## Configuração
