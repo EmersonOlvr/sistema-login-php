@@ -1,11 +1,7 @@
 # Sistema de Login
-Sistema de Login escrito em PHP que faz uso do PDO para conectar ao banco de dados. Com um visual agradável usando Bootstrap 4, este projeto pode ser implementado em qualquer projeto ou ser usado como base para novos.
+Sistema de Login escrito em PHP que faz uso do PDO para conectar ao banco de dados. Com um visual agradável usando Bootstrap 4, este projeto pode ser implementado em qualquer projeto ou ser usado como base para novos. [Ver capturas de tela](screenshots).
 
-## Capturas de tela
-![Registro](screenshots/registro.png)
 ![Login](screenshots/login.png)
-
-[Ver todas](screenshots)
 
 ## Características
 - Registro de conta
