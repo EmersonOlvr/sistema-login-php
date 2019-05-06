@@ -4,9 +4,9 @@ Sistema de Login escrito em PHP que faz uso do PDO para conectar ao banco de dad
 ## Capturas de tela
 ![Registro](screenshots/registro.png)
 ![Confirmação de E-mail](screenshots/confirmacao_email.png)
-![Login](screenshots/login.jpg)
-![Home](screenshots/home.jpg)
-![Ajustes](screenshots/ajustes.jpg)
+![Login](screenshots/login.png)
+![Home](screenshots/home.png)
+![Ajustes](screenshots/ajustes.png)
 
 ## Características
 - Registro de conta
