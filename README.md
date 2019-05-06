@@ -4,6 +4,7 @@ Sistema de Login escrito em PHP que faz uso do PDO para conectar ao banco de dad
 ## Capturas de tela
 ![Registro](screenshots/registro.png)
 ![Login](screenshots/login.png)
+
 [Ver todas](screenshots)
 
 ## Características
